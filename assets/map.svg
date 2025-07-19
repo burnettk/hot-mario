@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <!-- Map collectible -->
+  <rect x="2" y="2" width="20" height="20" fill="#f5deb3" />
+  <path d="M4 4 L20 4 L20 20 L4 20 Z" stroke="#8b4513" fill="transparent" stroke-width="1" />
+  <path d="M5 6 L10 12 L15 8 L19 14" stroke="#8b4513" fill="transparent" stroke-width="1" />
+  <circle cx="10" cy="12" r="1" fill="#ff0000" />
+  <circle cx="15" cy="8" r="1" fill="#ff0000" />
+  <circle cx="19" cy="14" r="1" fill="#ff0000" />
+  <path d="M6 18 Q12 16 18 18" stroke="#0000ff" fill="transparent" stroke-width="1" />
+</svg>

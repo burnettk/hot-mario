@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grass tile -->
+  <rect x="0" y="0" width="32" height="32" fill="#228b22" />
+  <path d="M0 0 L8 0 L4 4 L8 8 L0 8 Z" fill="#32cd32" />
+  <path d="M8 0 L16 0 L16 4 L12 8 L8 8 L12 4 Z" fill="#32cd32" />
+  <path d="M16 0 L24 0 L20 4 L24 8 L16 8 Z" fill="#32cd32" />
+  <path d="M24 0 L32 0 L32 8 L24 8 L28 4 Z" fill="#32cd32" />
+  <path d="M0 8 L8 8 L4 12 L8 16 L0 16 Z" fill="#32cd32" />
+  <path d="M8 8 L16 8 L16 12 L12 16 L8 16 L12 12 Z" fill="#32cd32" />
+  <path d="M16 8 L24 8 L20 12 L24 16 L16 16 Z" fill="#32cd32" />
+  <path d="M24 8 L32 8 L32 16 L24 16 L28 12 Z" fill="#32cd32" />
+</svg>
