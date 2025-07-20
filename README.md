@@ -1,6 +1,6 @@
 # Adventure Quest
 
-A Mario-style platformer game where you must find a key by exploring a village, talking to an elderly advisor, collecting a map and scrolls, and overcoming obstacles.
+A deltarune-style game where you must find a key by exploring a village, talking to an elderly advisor, collecting a map and scrolls, and overcoming obstacles.
 
 ## How to Play
 
@@ -29,6 +29,7 @@ A Mario-style platformer game where you must find a key by exploring a village, 
 ## Asset Credits
 
 This project needs the following assets:
+
 - Player sprite (character with idle, run, jump animations)
 - NPC sprites (elder character)
 - Tile sprites (bricks, grass, etc.)
@@ -36,3 +37,4 @@ This project needs the following assets:
 - Background image
 
 You need to provide these assets and place them in the `assets` folder for the game to display correctly.
+
